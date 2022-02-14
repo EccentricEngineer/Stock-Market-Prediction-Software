@@ -1,2 +1,2 @@
 # Stock-Market-Prediction-Software
-## mynjkdfv
+## Stock market price prediction using fundamnetal data. A feedforward neural neywork coupled with backpropagation learning algorithm is used.
